@@ -3,6 +3,7 @@
 本Github仓库记录了量化投资系列教程文章的源代码，教程:
 
 1.[Backtrader 教程 — 量化投资原来这么简单(1)](https://pythondict.com/quant/backtrader-easy-quant-one/) - 2020/04/12
+
 2.[量化投资原来这么简单(2) —MACD策略(+26.9%)](https://pythondict.com/quant/backtrader-easy-quant-macd-26profit/) - 2020/04/20
 
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢作者。
