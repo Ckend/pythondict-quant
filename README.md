@@ -6,6 +6,8 @@
 
 2.[量化投资原来这么简单(2) —MACD策略(+26.9%)](https://pythondict.com/quant/backtrader-easy-quant-macd-26profit/) - 2020/04/20
 
+2.[量化投资原来这么简单(3) —A股回测MACD策略](https://pythondict.com/quant/back-trader-a-market-with-macd/) - 2020/04/26
+
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢作者。
 
 Python实用宝典：https://pythondict.com，欢迎关注Python实用宝典公众号阅读最新的文章。
