@@ -14,10 +14,10 @@
 
 4.[Python 量化投资原来这么简单(4) — KDJ 策略](https://pythondict.com/quant/backtrader-kdj/) - 2020/05/06
 
-4.[Python 量化投资原来这么简单(5) — A股回测KDJ策略](https://pythondict.com/quant/backtrader-kdj-a-market/) - 2020/05/16
+5.[Python 量化投资原来这么简单(5) — A股回测KDJ策略](https://pythondict.com/quant/backtrader-kdj-a-market/) - 2020/05/16
 
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢开发者。
 
-Python实用宝典：https://pythondict.com，欢迎关注Python实用宝典公众号阅读最新的文章。
+Python实用宝典：[pythondict.com](https://pythondict.com)，欢迎关注Python实用宝典公众号阅读最新的文章。
 
 如无意外，本系列教程一周一更。
