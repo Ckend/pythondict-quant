@@ -16,6 +16,8 @@
 
 5.[Python 量化投资原来这么简单(5) — A股回测KDJ策略](https://pythondict.com/quant/backtrader-kdj-a-market/) - 2020/05/16
 
+6.[Python 量化投资原来这么简单(6) — 交易平均收益](https://pythondict.com/quant/backtrader-average-profit/) - 2020/05/26
+
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢开发者。
 
 Python实用宝典：[pythondict.com](https://pythondict.com)，欢迎关注Python实用宝典公众号阅读最新的文章。
