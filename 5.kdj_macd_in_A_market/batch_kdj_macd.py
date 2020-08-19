@@ -70,6 +70,7 @@ class TestStrategy(bt.Strategy):
             if condition1 > 0 or condition2 < 0:
                 self.order = self.sell()
 
+
 def run_cerebro(stock_file, result):
     """
     运行策略
@@ -140,4 +141,4 @@ for data in result:
         pos.append(res)
     else:
         neg.append(res)
-print(f'正收益数量: {len(pos)}, 负收益数量:{len(neg)}')
+print(f"正收益数量: {len(pos)}, 负收益数量:{len(neg)}")
