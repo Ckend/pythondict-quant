@@ -18,6 +18,8 @@
 
 6.[Python 量化投资原来这么简单(6) — 交易平均收益](https://pythondict.com/quant/backtrader-average-profit/) - 2020/05/26
 
+7.[Python 量化投资实战教程(7) — 孕线真的有用吗？](https://pythondict.com/quant/python-quant-harami/) - 2020/08/20
+
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢开发者。
 
 Python实用宝典：[pythondict.com](https://pythondict.com)，欢迎关注Python实用宝典公众号阅读最新的文章。
