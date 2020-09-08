@@ -20,6 +20,8 @@
 
 7.[Python 量化投资实战教程(7) — 孕线真的有用吗？](https://pythondict.com/quant/python-quant-harami/) - 2020/08/20
 
+8.[Python 量化投资实战教程(8) - A股回测“孕线”策略](https://pythondict.com/quant/quant-a-stock-backtrader-harami/) - 2020/09/08
+
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢开发者。
 
 Python实用宝典：[pythondict.com](https://pythondict.com)，欢迎关注Python实用宝典公众号阅读最新的文章。
