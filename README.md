@@ -24,11 +24,12 @@
 
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢开发者。
 
-如遇到`ImportError: cannot import name 'warnings'`错误，请安装matplotlib-3.2.2
-```
-pip install matplotlib==3.2.2
-```
-
 Python实用宝典：[pythondict.com](https://pythondict.com)，欢迎关注Python实用宝典公众号阅读最新的文章。
 
 如无意外，本系列教程一周一更。
+
+## 问题反馈
+1.如遇到`ImportError: cannot import name 'warnings'`错误，请安装matplotlib-3.2.2
+```
+pip install matplotlib==3.2.2
+```
