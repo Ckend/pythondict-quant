@@ -22,6 +22,8 @@
 
 8.[Python 量化投资实战教程(8) - A股回测“孕线”策略](https://pythondict.com/quant/quant-a-stock-backtrader-harami/) - 2020/09/08
 
+9.[Python 量化投资实战教程(9) - 自定义MySQL数据流](https://pythondict.com/quant/backtrader-custom-mysql-datafeed/) - 2020/11/12
+
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢开发者。
 
 Python实用宝典：[pythondict.com](https://pythondict.com)，欢迎关注Python实用宝典公众号阅读最新的文章。
