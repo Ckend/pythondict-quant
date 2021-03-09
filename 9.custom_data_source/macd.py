@@ -9,10 +9,6 @@ from backtrader.indicators import EMA
 
 
 class TestStrategy(bt.Strategy):
-    params = (
-        ('maperiod', 15),
-    )
-
     def log(self, txt, dt=None):
         ''' Logging function fot this strategy'''
         dt = dt or self.datas[0].datetime.date(0)
@@ -101,7 +97,7 @@ if __name__ == '__main__':
     # 加载数据到模型中
     data = MySQLData(
         ts_code="sh603520",
-        fromdate=datetime.datetime(2010, 1, 1),
+        fromdate=datetime.datetime(2017, 1, 1),
         todate=datetime.datetime(2020, 4, 12),
     )
     cerebro.adddata(data)

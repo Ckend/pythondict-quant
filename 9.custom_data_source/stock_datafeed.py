@@ -38,8 +38,8 @@ class MySQLData(DataBase):
 
         cur = db.cursor()
         sql = cur.execute(
-            f"SELECT * FROM {table} WHERE trade_time >= '{start_time}' and trade_time < '{end_time}'"
-            f"and ts_code = '{ts_code}' order by trade_time asc"
+            f"SELECT * FROM {table} WHERE trade_time >= '{start_time}'"
+            "and trade_time < '{end_time}' and ts_code = '{ts_code}' order by trade_time asc"
         )
         data = cur.fetchall()
         db.close()
@@ -50,7 +50,9 @@ class MySQLData(DataBase):
         self.empty = False
 
     def start(self):
-        self.result = self.load_data_from_db("stock_normalk", self.p.ts_code, self.p.fromdate, self.p.todate)
+        self.result = self.load_data_from_db(
+            "stock_normalk", self.p.ts_code, self.p.fromdate, self.p.todate
+        )
 
     def _load(self):
         if self.empty:
