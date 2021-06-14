@@ -24,7 +24,9 @@
 
 9.[Python 量化投资实战教程(9) - 自定义MySQL数据流](https://pythondict.com/quant/backtrader-custom-mysql-datafeed/) - 2020/11/12
 
-9.[Python 量化投资实战教程(9) - 可转债薅羊毛策略](https://pythondict.com/quant/convert_bond/) - 2021/03/07
+10.[Python 量化投资实战教程(10) - 可转债薅羊毛策略](https://pythondict.com/quant/convert_bond/) - 2021/03/070/11/12
+
+11.[Prometheus 实战教程 + Grafana + Python — 实时监控东方财富人气榜股票](https://pythondict.com/scrapy/prometheus-grafana-python/) - 2021/06/13
 
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢开发者。
 
