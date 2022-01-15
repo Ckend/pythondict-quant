@@ -28,6 +28,14 @@
 
 11.[Prometheus 实战教程 + Grafana + Python — 实时监控东方财富人气榜股票](https://pythondict.com/scrapy/prometheus-grafana-python/) - 2021/06/13
 
+12.[Lean — 优秀好用的开源量化交易平台](https://pythondict.com/quant/lean/?hilite=lean) - 2021年10月21日
+
+13.[量化投资单因子回测神器 — Alphalens](https://pythondict.com/quant/%e9%87%8f%e5%8c%96%e6%8a%95%e8%b5%84%e5%8d%95%e5%9b%a0%e5%ad%90%e5%9b%9e%e6%b5%8b%e7%a5%9e%e5%99%a8-alphalens/) - 2021年11月23日
+
+14.[微软开源！世界首个AI 量化投资平台 Qlib 使用教程](https://pythondict.com/quant/qlib/) - 2021年11月1日
+
+
+
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢开发者。
 
 Python实用宝典：[pythondict.com](https://pythondict.com)，欢迎关注Python实用宝典公众号阅读最新的文章。
