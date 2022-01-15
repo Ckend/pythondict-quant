@@ -34,13 +34,11 @@
 
 14.[微软开源！世界首个AI 量化投资平台 Qlib 使用教程](https://pythondict.com/quant/qlib/) - 2021年11月1日
 
-
+15.[什么是强化学习？预测股票的效果如何？](https://pythondict.com/quant/reinforcement-learnning/)
 
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢开发者。
 
 Python实用宝典：[pythondict.com](https://pythondict.com)，欢迎关注Python实用宝典公众号阅读最新的文章。
-
-如无意外，本系列教程一周一更。
 
 ## 问题反馈
 1.如遇到`ImportError: cannot import name 'warnings'`错误，请安装matplotlib-3.2.2
