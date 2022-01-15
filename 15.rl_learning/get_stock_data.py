@@ -49,10 +49,9 @@ class Downloader(object):
 
 if __name__ == '__main__':
     # 获取全部股票的日K线数据
-    # mkdir('./stockdata/train')
-    # downloader = Downloader('./stockdata/train', date_start='2021-01-01', date_end='2021-11-25')
-    # downloader.run()
-
+    mkdir('./stockdata/train')
+    downloader = Downloader('./stockdata/train', date_start='2021-01-01', date_end='2021-12-01')
+    downloader.run()
     mkdir('./stockdata/test')
-    downloader = Downloader('./stockdata/test', date_start='2021-11-26', date_end='2021-12-30')
+    downloader = Downloader('./stockdata/test', date_start='2021-12-01', date_end='2022-01-01')
     downloader.run()
