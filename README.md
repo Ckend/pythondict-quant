@@ -45,3 +45,8 @@ Python实用宝典：[pythondict.com](https://pythondict.com)，欢迎关注Pyth
 ```
 pip install matplotlib==3.2.2
 ```
+Or change to a new version of backtrader
+```python
+pip uninstall backtrader
+pip install git+https://github.com/mementum/backtrader.git@0fa63ef4a35dc53cc7320813f8b15480c8f85517#egg=backtrader
+```
