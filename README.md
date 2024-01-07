@@ -48,6 +48,7 @@ pip install matplotlib==3.2.2
 
 ## QMT开户
 
+有需要的可以直接联系我的微信: 83493903 (备注开户) 进行开通，有专业人士会跟进后续的开户和功能开通。
+
 ![开户详情](https://pythondict-1252734158.file.myqcloud.com/home/www/pythondict/wp-content/uploads/2024/01/微信图片_20240107211543.png)
 
-有需要的可以直接联系我的微信: 83493903 (备注开户) 进行开通，有专业人士会跟进后续的开户和功能开通。
