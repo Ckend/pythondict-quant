@@ -91,7 +91,7 @@ virtualenv -p python3.6 venv
 source ./venv/bin/activate
 # 安装库依赖
 pip install -r requirements.txt
-```
+```  
 
 ### 股票数据获取
 
